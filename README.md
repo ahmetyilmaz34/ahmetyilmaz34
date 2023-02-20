@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDk1MWJiZTk0MzU1Y2JhNTk5M2U1YTY0MDJlZmZhNTRhZDRmMjViYyZjdD1n/4H3Ii5eLChYul9p7NL/giphy-downsized-large.gif" align="right" width="250" height="250">
+<img src="https://tenor.com/tr/view/the-matrix-reloaded-matrix-reloaded-neo-keanu-reeves-gif-4011236" align="right" width="250" height="250">
 
 ### Hi there 👋, I'm Ahmet. :blush:
 <p align="left">After completing my computer programming education, I continued my education with computer engineering. Throughout my education, I have been interested in many programming languages, computer technologies, and computer-related fields. I am pursuing my career in the Web Back-End area. Thanks to the education I have received and the programming languages I have used for years, I have great confidence in my algorithmic ability, and I can easily and quickly learn a new technology or programming language. Additionally, I embrace the open-source philosophy and try to use it in my work. The artificial intelligence courses I took in school have increased my interest in artificial intelligence, and it is one of my goals to work on artificial intelligence in the future.
